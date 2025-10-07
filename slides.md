@@ -17,6 +17,24 @@ How to set up visual regression<br>testing with Vitest and Docker
 layout: statement
 ---
 
+<img src="/images/before.webp" style="width:840px">
+
+---
+layout: statement
+---
+
+<img src="/images/after.webp" style="width:840px">
+
+---
+layout: statement
+---
+
+<img src="/images/final.webp" style="width:840px">
+
+---
+layout: statement
+---
+
 # What to Expect
 
 ---
